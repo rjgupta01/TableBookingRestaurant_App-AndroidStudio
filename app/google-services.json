@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "277875945178",
+    "project_id": "gupta-restaurant",
+    "storage_bucket": "gupta-restaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277875945178:android:dfd001574c91504a9d3fe3",
+        "android_client_info": {
+          "package_name": "com.example.guptarestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277875945178-6vu4o0buqrs2kmd3tcrcf8k802d16s25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9yOawdKTL-t8P-VunjHnm69vPKXC5RHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277875945178-6vu4o0buqrs2kmd3tcrcf8k802d16s25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
